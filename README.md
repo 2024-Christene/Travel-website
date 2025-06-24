@@ -1,6 +1,6 @@
 # 🌍 Travel Website
 
-A responsive travel website built using *Bootstrap, **PHP, and **MySQL*.
+A responsive travel website built using Bootstrap, PHP, and MySQL.
 
 ## 🔧 Features
 - Navigation bar with logo and social media icons
