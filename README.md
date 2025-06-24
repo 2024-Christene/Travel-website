@@ -15,7 +15,7 @@ A responsive travel website built using Bootstrap, PHP, and MySQL.
 - Database: MySQL
 
 ## 🚀 How to Run
-1. Place the project folder in htdocs (XAMPP).
+1. Place the project folder in htdocs (XAMPP) [C:\xampp\htdocs]
 2. Import the SQL file in phpMyAdmin.
 3. Start Apache & MySQL in XAMPP.
 4. Visit: http://localhost/travel-website/
